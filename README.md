@@ -16,7 +16,6 @@ This project demonstrates how to send 240 bytes of data from a Seeed XIAO nRF528
     - [Task Notification Usage](#task-notification-usage)
     - [Data Transmission](#data-transmission)
     - [Reconnection Handling](#reconnection-handling)
-
 - [Summary of Key Features in Seeed XIAO nRF52840 Code](#summary-of-key-features-in-seeed-xiao-nrf52840-code)
 - [Usage Instructions](#usage-instructions)
 - [Troubleshooting](#troubleshooting)
